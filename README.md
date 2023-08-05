@@ -1,1 +1,1 @@
-# tynker-classes
+# Coding Class for Kids (with Tynker)
